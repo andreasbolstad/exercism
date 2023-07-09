@@ -1,0 +1,1 @@
+/home/andreas/src/exercism/kotlin/hello-world/build/classes/kotlin/main/HelloWorldKt.class

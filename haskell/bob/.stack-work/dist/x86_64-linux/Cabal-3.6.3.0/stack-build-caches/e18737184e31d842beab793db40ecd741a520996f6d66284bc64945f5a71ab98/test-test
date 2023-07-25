@@ -1,0 +1,14 @@
+/home/andreas/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+/home/andreas/src/exercism/haskell/bob/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/Paths_bob.hs:
+  hash: e19cb69e88654fdadf58e06ca139951f85df1ba88491a058997bf51d28d114f0
+/home/andreas/src/exercism/haskell/bob/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h:
+  hash: ee320e73268d0bfa392d0e03bc241b11dde035ca191dbe8aeeb45ab6cfe40dc3
+/home/andreas/src/exercism/haskell/bob/bob.cabal:
+  hash: d625947dfb60ec3faf77f51d935a43db04eb8a86602c84879d3a09c53b6b6bc3
+/home/andreas/src/exercism/haskell/bob/package.yaml:
+  hash: fdbe34943408486a1bea988085ad4b25d582690cac37d8a14acf12386796af4d
+/home/andreas/src/exercism/haskell/bob/test/Tests.hs:
+  hash: 195fcd7abe2c3d029d95156d4df3e14758cf8334074ea62439d1d6f7a2c19ec0
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

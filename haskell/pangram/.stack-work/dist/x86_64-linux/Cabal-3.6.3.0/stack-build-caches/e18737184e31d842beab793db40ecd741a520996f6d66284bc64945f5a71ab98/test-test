@@ -1,0 +1,14 @@
+/home/andreas/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+/home/andreas/src/exercism/haskell/pangram/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/Paths_pangram.hs:
+  hash: ccd0f2f73eaf154e56ff29230eb19b6d87d164acb87aeccad22f5b7a9776d7d9
+/home/andreas/src/exercism/haskell/pangram/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h:
+  hash: 2ed019e39027372a0e2c0453cc82b83ed24ffc22e28cd707e26fcbe4da29dcc2
+/home/andreas/src/exercism/haskell/pangram/package.yaml:
+  hash: bb27d54d44cd13fe87455b5f8fd55fcdc631b7678fdfb9ba651bfc6b3c72d5ae
+/home/andreas/src/exercism/haskell/pangram/pangram.cabal:
+  hash: 0d22cf490547419b39b293a9ae5d5aa7e0d607541ea57ecc6c054472a15a8c1c
+/home/andreas/src/exercism/haskell/pangram/test/Tests.hs:
+  hash: 55929c84426c40df7d6f58021f7d8521a3e0a66b5dd5059fba0f7152e11ad65b
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

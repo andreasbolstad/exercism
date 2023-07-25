@@ -1,0 +1,14 @@
+/home/andreas/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/andreas/src/exercism/haskell/nucleotide-count/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/Paths_nucleotide_count.hs
+: hash: f6eb0e795a6de73ffc23a8ef8f0a19ab33e7754319cb74a4d877824c25291b25
+? /home/andreas/src/exercism/haskell/nucleotide-count/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h
+: hash: 1233812fd18952be0d64afdcf10801f8771caa7509c093fc1a8821b13429ee7e
+/home/andreas/src/exercism/haskell/nucleotide-count/nucleotide-count.cabal:
+  hash: 73e3c48015e70549359425d519fa619310f9d23395c8274bb461e2963a6fb92c
+/home/andreas/src/exercism/haskell/nucleotide-count/package.yaml:
+  hash: a9addd79532906f9ac795239d06df65176d38dadf35821e65efed3b7d93b19da
+/home/andreas/src/exercism/haskell/nucleotide-count/test/Tests.hs:
+  hash: d328cf58d6cc41aa47008a96320fba7227875365062ad31ce0073ac829252029
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

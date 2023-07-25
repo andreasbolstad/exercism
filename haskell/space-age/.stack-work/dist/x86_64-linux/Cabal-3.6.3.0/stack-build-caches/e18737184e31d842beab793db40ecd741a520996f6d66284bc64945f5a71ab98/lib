@@ -1,0 +1,14 @@
+/home/andreas/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+/home/andreas/src/exercism/haskell/space-age/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_space_age.hs:
+  hash: 262b9084fc26676fafe2385ebf92f294bad82ae16ab464e37ca50d6d9a7e2e54
+/home/andreas/src/exercism/haskell/space-age/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: 595680d5135765dca0055e5a93ba336c34b464da7f09a7229473031ca37edef6
+/home/andreas/src/exercism/haskell/space-age/package.yaml:
+  hash: d8dbdf4247d1f13fc1acdd3b68d702ceb46403e97b81ac10decfe16dc11cdfee
+/home/andreas/src/exercism/haskell/space-age/space-age.cabal:
+  hash: 1fd62cd0b9bd48d980255c2188d0c25b2859dbe7d70e1db376aaaf51ae821234
+/home/andreas/src/exercism/haskell/space-age/src/SpaceAge.hs:
+  hash: fdc2b80c6f996f5b14fa393f6318897ef967c89564c0e8f4b1cf93171ccc70c1
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

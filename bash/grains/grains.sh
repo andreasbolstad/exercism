@@ -1,24 +1,18 @@
 #!/usr/bin/env bash
 
-# The following comments should help you get started:
-# - Bash is flexible. You may use functions or write a "raw" script.
-#
-# - Complex code can be made easier to read by breaking it up
-#   into functions, however this is sometimes overkill in bash.
-#
-# - You can find links about good style and other resources
-#   for Bash in './README.md'. It came with this exercise.
-#
-#   Example:
-#   # other functions here
-#   # ...
-#   # ...
-#
-#   main () {
-#     # your main function code here
-#   }
-#
-#   # call main with all of the positional arguments
-#   main "$@"
-#
-# *** PLEASE REMOVE THESE COMMENTS BEFORE SUBMITTING YOUR SOLUTION ***
+main () {
+    nSquares=$1
+    if [[ $nSquares == "total" ]]; then
+        sum=0
+        for i in $(seq 1 64); do
+            sum=$(echo "$(main $i)+$sum" | bc | cat)
+        done
+        echo $sum && exit 0
+    fi
+    if (( nSquares < 1 || nSquares > 64 )); then
+        echo "Error: invalid input" && exit 1
+    fi
+    echo "2^($nSquares-1)" | bc | cat
+}
+
+main "$@"
